@@ -1,0 +1,16 @@
+
+Логи теста : test_add_new_pet_without_photo
+Применяется фикстура : request_fixture
+scope фикстуры :function
+Путь к файлу запуска теста : D:\ATI\QA\PyCharm_100\Pytest_Requests_Request\tests\test_pf.py
+____________________________________
+Логи теста : test_successful_update_self_pet_info
+Применяется фикстура : request_fixture
+scope фикстуры :function
+Путь к файлу запуска теста : D:\ATI\QA\PyCharm_100\Pytest_Requests_Request\tests\test_pf.py
+____________________________________
+Логи теста : test_add_pet_photo
+Применяется фикстура : request_fixture
+scope фикстуры :function
+Путь к файлу запуска теста : D:\ATI\QA\PyCharm_100\Pytest_Requests_Request\tests\test_pf.py
+____________________________________
