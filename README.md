@@ -65,9 +65,9 @@
       
    2.	Из командной строки запустить тесты: 
    
-      1.	Вариант: запустить все тесты: 
+      1.Вариант: запустить все тесты: 
           python -m pytest -v tests/test_pf.py
-      2.	Вариант: запустить одну из пользовательских групп, например auth:
+      2.Вариант: запустить одну из пользовательских групп, например auth:
           python -m pytest -v -m auth
-      3.  Вариант: запустить один из тестов, например test_add_pet_photo из класса TestUpdatePet :
+      3.Вариант: запустить один из тестов, например test_add_pet_photo из класса TestUpdatePet :
           python -m pytest -v tests/test_pf.py::TestUpdatePet::test_add_pet_photo
